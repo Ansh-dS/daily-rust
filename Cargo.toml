@@ -4,3 +4,13 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+
+[[bin]]
+name = "playing_with_vector"
+path = "src/work/playing_with_vector.rs"
+
+[[bin]]
+name = "iterator_basics"
+path = "src/work/iterator_basics.rs"
+
